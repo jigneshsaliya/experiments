@@ -1,5 +1,4 @@
 from cassandra.cluster import Cluster
-
 class CassandraCRUD:
     def __init__(self, keyspace, table):
         self.cluster = Cluster(['localhost'])
