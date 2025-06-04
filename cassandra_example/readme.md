@@ -1,0 +1,4 @@
+- docker-compose up -d
+- docker exec -it cassandra cqlsh
+- http://localhost:9091 
+- docker exec -it cassandra cqlsh

@@ -1,3 +1,6 @@
 requests==2.32.3
 websockets
 redis
+confluent-kafka
+mcp[cli]
+httpx
