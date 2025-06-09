@@ -4,4 +4,7 @@ redis
 confluent-kafka
 httpx
 strands-agents
+strands-agents-tools
+strands-agents-builder
 cassandra-driver
+python-dotenv
